@@ -1,0 +1,21 @@
+nav {
+  padding-left: 69%;
+}
+
+nav input {
+  margin-right: 5px;
+}
+
+nav button {
+  color: white;
+  background-color: forestgreen;
+  border: 0;
+  outline: none;
+  padding: 2px;
+}
+
+i {
+  position: relative;
+  top: 0;
+  left: 20px;
+}

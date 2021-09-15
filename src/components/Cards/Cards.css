@@ -1,0 +1,38 @@
+.card-area {
+  display: flex;
+  justify-content: space-between;
+}
+
+.card {
+  width: 30%;
+  box-shadow: 2px 2px 2px grey;
+}
+
+.card div {
+  color: white;
+  background-color: green;
+  padding: 10px 5px;
+}
+
+.card img {
+  max-height: 200px;
+}
+
+.name {
+  display: inline-block;
+  width: 50%;
+  margin-bottom: 3px;
+  margin-left: 3px;
+}
+
+.id {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  margin-left: 35%;
+  margin-top: 5px;
+  background-color: lightcyan;
+  color: green;
+  text-align: center;
+  border-radius: 100%;
+}
